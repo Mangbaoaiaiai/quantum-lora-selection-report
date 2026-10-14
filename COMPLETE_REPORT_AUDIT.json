@@ -1,0 +1,104 @@
+{
+  "status": "PASS",
+  "checks": {
+    "report_nonempty": true,
+    "figure_count_9": true,
+    "all_figure_links_exist": true,
+    "all_png_valid": true,
+    "all_v2_svg_valid": true,
+    "each_figure_has_content_explanation": true,
+    "each_figure_has_interpretation": true,
+    "each_figure_has_limitations": true
+  },
+  "report_bytes": 24812,
+  "report_sha256": "5ebf4480425c842aa018d4ed029cb863e85dd19fcc09311427c0785e728d9164",
+  "figure_refs": [
+    "report_figures_v2/budget_nll.png",
+    "report_figures_v2/budget_nll_seed11.png",
+    "report_figures_v2/budget_nll_seed22.png",
+    "report_figures_v2/budget_nll_seed33.png",
+    "report_figures_v2/b256_delta_ci.png",
+    "report_figures_v2/quadratic_win_rate.png",
+    "report_figures_v2/recommendation_repeat_rate.png",
+    "report_figures_v2/measured_costs.png",
+    "report_figures_v2/top1_accuracy.png"
+  ],
+  "png_dimensions": {
+    "report_figures_v2/budget_nll.png": [
+      1457,
+      845
+    ],
+    "report_figures_v2/budget_nll_seed11.png": [
+      1458,
+      845
+    ],
+    "report_figures_v2/budget_nll_seed22.png": [
+      1458,
+      845
+    ],
+    "report_figures_v2/budget_nll_seed33.png": [
+      1458,
+      845
+    ],
+    "report_figures_v2/b256_delta_ci.png": [
+      1278,
+      943
+    ],
+    "report_figures_v2/quadratic_win_rate.png": [
+      1458,
+      845
+    ],
+    "report_figures_v2/recommendation_repeat_rate.png": [
+      1458,
+      845
+    ],
+    "report_figures_v2/measured_costs.png": [
+      1817,
+      854
+    ],
+    "report_figures_v2/top1_accuracy.png": [
+      1458,
+      845
+    ]
+  },
+  "missing": [],
+  "png_errors": [],
+  "svg_errors": [],
+  "figure_sha256": {
+    "report_figures_v2/budget_nll.png": "f57a32a496c32a8889ec381e102aad86462dadb918364c24c710e0c7a2e1ca63",
+    "report_figures_v2/budget_nll_seed11.png": "9607e2afa611e315f709a0d13d5490719d097b4b7c767aff74f52d5a1345f508",
+    "report_figures_v2/budget_nll_seed22.png": "de2d440977db3f317102bd36517a02024d85d58f573eb4de445e36cb013c2cf5",
+    "report_figures_v2/budget_nll_seed33.png": "d3897fc7645ca6e2d52fea3fa3a04efb0593cb818c68d7db59bdaec4e3b56c50",
+    "report_figures_v2/b256_delta_ci.png": "e7c52e6d27785a5a1c5bec90f8b373ee983c9f0f2f588faf4f700950d628dde6",
+    "report_figures_v2/quadratic_win_rate.png": "3c36e53ab2590f7c9bb1feddfddc7685f43dd6e23ce61f236f18b40a1413a371",
+    "report_figures_v2/recommendation_repeat_rate.png": "b01ab6a779ae560f8eb61bae1f33e17354139721b67a7449fe1b589cbfaa3f3a",
+    "report_figures_v2/measured_costs.png": "314e701b079562b3919a375674fd6f1f4ea2416a667cbf90fded70436ca202b0",
+    "report_figures_v2/top1_accuracy.png": "9f13d82183606a5ba047d9cc74fc4a565f61e5b03c8221506d07c2aa8d49d1b7"
+  },
+  "svg_sha256": {
+    "report_figures_v2/b256_delta_ci.svg": "8ee0d836b6a7d8c2ce70b2ea4b44c13f6bf2165ee1f89e32a666c752af19fce3",
+    "report_figures_v2/budget_nll.svg": "4205c0efddb35fdf3f27306b7d833810271af2522f990c9ac178fe65f866b714",
+    "report_figures_v2/budget_nll_seed11.svg": "883ebee60a2a3ffb956174c3a85bd2260bbbb65861a4ee84e887614c63546023",
+    "report_figures_v2/budget_nll_seed22.svg": "d2f71fe6504c35125d09b33c7fbc2c9558a0ad773330798a7bc6e73bbb9c15f3",
+    "report_figures_v2/budget_nll_seed33.svg": "9a3049e60794fc5083d1aac41cb69b717bda884a134c42cfa38aec4bb5fd0780",
+    "report_figures_v2/measured_costs.svg": "b92f87cba736751c688f500ce7012ab935db4cb492c508eed137d6ceddf7d674",
+    "report_figures_v2/quadratic_win_rate.svg": "45d2979ea3d9ee279b3d392ac17a1c024e8556028ba20424746e19c29929047e",
+    "report_figures_v2/recommendation_repeat_rate.svg": "fa5b1e0ad0c4ddc88ce6246e83d6a9c028f9b31172854041cc7e7954aab5222d",
+    "report_figures_v2/top1_accuracy.svg": "d217bcc44ffb1d5a9cea8a65d51af57cd2ff3619f366ef42747f9cc8828abc41"
+  },
+  "source_sha256": {
+    "approved_protocol.json": "b37c7342731a8db9fab9ecec7caa4d671303a1fcf8e2efec14e622917e9c2825",
+    "paired_metrics.csv": "433ff609910a796735470ced4b1b074315a3db5070e0acc021f5d8ce8a105869",
+    "seed_summary.csv": "318ff845271e022a14b9a8ade83b1fe4a7639197b284e018552c1f6279f1cc4b",
+    "paired_delta_summary.csv": "33d55cac15e1d9a8bda75fa5a7aad7c74e7a4b5e79fc370d4ff8d3f2175de857",
+    "bootstrap_intervals.json": "1ef8f9969680e424473b59a9dd9af8023c4a77f6451f81d4c6d592102dbf6523",
+    "diag_text_bootstrap.json": "7fc01da3eb863509c38854a893a42caf4e42cb14a2ac964fc044dae3f221101f",
+    "selection_diagnostics.csv": "af02bca6a1970f6c0a2b6f1e55a6595baa3a0a21ed95b846dd6f34e073b916bd",
+    "balanced_observed_best_supplement.csv": "76d5c106eab394ff389fb6cd98b052ef8bd083580d8c337552a93c2134e954c4",
+    "cost_summary.json": "81eaff5f6461659ada7c4cc003715d8279303b5c464a80f8b08a8a29ab6d8c3a",
+    "FINAL_AUDIT.json": "732c9ee8d1bf40818165314ff939d63b67baa6287ce5358c5563e1132034862d",
+    "RUN_MANIFEST.json": "abad331d6ddec06205cfd123f10c54f36930df3ea90de55c1b2b1a9a73b23210",
+    "supplements/acc_top3_20261014_204524/accuracy_results.csv": "acb02f4085b5578924cd189014a77c42d8cefea48314193f6444f169d45c0cdc",
+    "supplements/acc_top3_20261014_204524/FINAL_AUDIT.json": "d6b5f67d76841881a575287d9447014515a5cfe650f0feef7c66f5b18e3bad99"
+  }
+}
